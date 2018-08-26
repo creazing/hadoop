@@ -1,0 +1,8 @@
+/home/hadoop/IdeaProjects/hadoop/src/main/java/WordCount/WordCount.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/provinceflow/FlowCount.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/flowsum/FlowBean.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/flowsum/FlowCount.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/provinceflow/FlowBean.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/WordCount/WordcountMapper.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/provinceflow/ProvincePartitioner.java
+/home/hadoop/IdeaProjects/hadoop/src/main/java/WordCount/WordcountReducer.java
