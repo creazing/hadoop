@@ -21,8 +21,8 @@ public class WordCount {
             String[] paths = new String[2];
             //paths[0] = "hdfs://127.0.0.1:9000//input/word.txt";
             //paths[1] = "hdfs://127.0.0.1:9000/output/output15";
-            paths[0] = "./input/word.txt";
-            paths[1] = "./output/output001";
+            paths[0] = "./input/wordcount_input";
+            paths[1] = "./output/wordcountoutput";
 
 
         Configuration conf = new Configuration();
